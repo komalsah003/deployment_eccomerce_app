@@ -25,7 +25,8 @@ The web app is Deployed [Here](https://nice-teal-cockroach-garb.cyclic.app/).
  ## Tech Stacks
  
  **Frontend** : React
- **Backend** : Node.js
+ 
+ **Backend** : Node.js ,express
  
  MongoDb : Authentication, Storage
 
